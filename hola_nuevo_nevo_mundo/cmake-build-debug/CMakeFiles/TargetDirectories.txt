@@ -1,0 +1,3 @@
+C:/Users/Jocy/Desktop/Sim_Fisicas_BACC/hola_nuevo_nevo_mundo/cmake-build-debug/CMakeFiles/hola_nuevo_nevo_mundo.dir
+C:/Users/Jocy/Desktop/Sim_Fisicas_BACC/hola_nuevo_nevo_mundo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jocy/Desktop/Sim_Fisicas_BACC/hola_nuevo_nevo_mundo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
