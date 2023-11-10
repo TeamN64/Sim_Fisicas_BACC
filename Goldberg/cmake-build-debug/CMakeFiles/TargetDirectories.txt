@@ -1,0 +1,3 @@
+C:/Users/Jocy/Desktop/Sim_Fisicas_BACC/Goldberg/cmake-build-debug/CMakeFiles/Goldberg.dir
+C:/Users/Jocy/Desktop/Sim_Fisicas_BACC/Goldberg/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jocy/Desktop/Sim_Fisicas_BACC/Goldberg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
